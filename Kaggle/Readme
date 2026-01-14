@@ -1,0 +1,4 @@
+This folder contains self-initiated projects using datasets provided on Kaggle. All the project done will be listed below with simple description on what they are.
+
+1. Netflix.ipynb
+This Jupyter Notebook uses the netflix._titles.csv file to create data visualisations on Netflix shows to provide insights on types of shows released, trends over the years etc.
