@@ -2,3 +2,6 @@ This folder contains self-initiated projects using datasets provided on Kaggle. 
 
 1. Netflix.ipynb
 This Jupyter Notebook uses the netflix._titles.csv file to create data visualisations on Netflix shows to provide insights on types of shows released, trends over the years etc.
+
+2. Superstore.ipynb
+This Jupyter Notebook uses the Superstore.csv file to create data visualisations and analysis on Superstores sales data to provide insights into trends on sales, profits and discounts. At the same time we are also able to analyse on which category and sub-category are not doing well to take action to improve. Some other analysis include analysin g on cities, customer types and average duration for shipping.
